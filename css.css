@@ -5,7 +5,9 @@
   text-align: center;
   color: white;
 }
-
+.uppy {
+  position:relative;
+}
 .bottom-left {
   position: relative;
   top: -345px;
